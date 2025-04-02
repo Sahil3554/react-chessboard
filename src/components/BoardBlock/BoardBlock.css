@@ -1,0 +1,5 @@
+.boardBlock {
+    height: 2rem;
+    width: 2rem;
+    border: 0.1rem solid black;
+}
